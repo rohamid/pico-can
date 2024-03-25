@@ -3656,6 +3656,7 @@
 	)
 	(label "RxCAN"
 		(at 113.03 144.78 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3666,6 +3667,7 @@
 	)
 	(label "CANH"
 		(at 113.03 114.3 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3676,6 +3678,7 @@
 	)
 	(label "CANL"
 		(at 113.03 116.84 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3686,6 +3689,7 @@
 	)
 	(label "~{CAN_CS}"
 		(at 71.12 111.76 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3696,6 +3700,7 @@
 	)
 	(label "CAN_STBY"
 		(at 62.23 149.86 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3706,6 +3711,7 @@
 	)
 	(label "~{Rx0BF}"
 		(at 113.03 106.68 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3716,6 +3722,7 @@
 	)
 	(label "~{CAN_INT}"
 		(at 113.03 101.6 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3726,6 +3733,7 @@
 	)
 	(label "~{CAN_RESET}"
 		(at 71.12 114.3 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3736,6 +3744,7 @@
 	)
 	(label "~{Tx0RTS}"
 		(at 64.77 124.46 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3757,6 +3766,7 @@
 	)
 	(label "TxCAN"
 		(at 113.03 147.32 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3779,6 +3789,7 @@
 	(hierarchical_label "~{Tx0RTS}"
 		(shape input)
 		(at 64.77 124.46 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3790,6 +3801,7 @@
 	(hierarchical_label "~{Rx0BF}"
 		(shape output)
 		(at 113.03 106.68 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3801,6 +3813,7 @@
 	(hierarchical_label "CAN_STBY"
 		(shape input)
 		(at 71.12 153.67 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3812,6 +3825,7 @@
 	(hierarchical_label "MISO"
 		(shape output)
 		(at 71.12 160.02 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3823,6 +3837,7 @@
 	(hierarchical_label "~{CAN_CS}"
 		(shape input)
 		(at 55.88 119.38 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3834,6 +3849,7 @@
 	(hierarchical_label "SCK"
 		(shape input)
 		(at 71.12 139.7 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3845,6 +3861,7 @@
 	(hierarchical_label "MOSI"
 		(shape input)
 		(at 71.12 157.48 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3856,6 +3873,7 @@
 	(hierarchical_label "~{CAN_INT}"
 		(shape output)
 		(at 113.03 101.6 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3867,6 +3885,7 @@
 	(hierarchical_label "~{CAN_RESET}"
 		(shape input)
 		(at 71.12 119.38 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
